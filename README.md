@@ -15,7 +15,7 @@ The following sites provide some useful reference materials for these languages.
 - links about TypeScript language
   - https://github.com/dr-matt-smith/2026-Design-Patterns/blob/main/README_typescript_links.md
 - links about TypeScript tools
-  - asd
+  - https://github.com/dr-matt-smith/2026-Design-Patterns/blob/main/README_typescript_tools.md
 
 
 ## Design Patterns
