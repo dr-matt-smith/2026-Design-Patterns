@@ -2,11 +2,13 @@
 
 Public notes to support learning of TU Dublin module **COMP H3027: Design Patterns**
 
-Recommended Book: "Head First Design Patterns" by Eric Freeman & Elizabeth Robson
-- I've forked their publised code repo here:
-  - https://github.com/dr-matt-smith/Head-First-Design-Patterns
-    - chapter 1 - Strategy Pattern (ducks !)
-    - chapter 2 - Observer Pattern (weather station)
+## Recommended Book
+"Head First Design Patterns" by Eric Freeman & Elizabeth Robson
+
+I've forked their publised code repo here:
+- https://github.com/dr-matt-smith/Head-First-Design-Patterns
+  - chapter 1 - Strategy Pattern (ducks !)
+  - chapter 2 - Observer Pattern (weather station)
 
 # Useful links: Programming languages
 
