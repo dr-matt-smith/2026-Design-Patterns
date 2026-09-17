@@ -11,7 +11,7 @@ The following sites provide some useful reference materials for these languages.
 - links about Java language
   - https://github.com/dr-matt-smith/2026-Design-Patterns/blob/main/README_java_links.md
 - links about technologies for this module
-  - asd
+  - https://github.com/dr-matt-smith/2026-Design-Patterns/blob/main/README_technologies.md
 - links about TypeScript language
   - asd
 - links about TypeScript tools
