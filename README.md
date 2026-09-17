@@ -9,7 +9,7 @@ The module will begin with a recap of important OOP features in Java, and then _
 The following sites provide some useful reference materials for these languages.
 
 - links about Java language
-  - asd
+  - https://github.com/dr-matt-smith/2026-Design-Patterns/blob/main/README_java_links.md
 - links about technologies for this module
   - asd
 - links about TypeScript language
