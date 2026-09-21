@@ -19,3 +19,5 @@ personally - I'll be using Celbridge (now available for Windows and macOS)
 - free course from Refactoring Guru
   - https://gitbybit.com/
 
+learn about GitHub:
+- https://learn.github.com/skills
