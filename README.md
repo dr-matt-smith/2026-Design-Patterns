@@ -2,6 +2,11 @@
 
 Public notes to support learning of TU Dublin module **COMP H3027: Design Patterns**
 
+## Sample assessments - Lab Test 1
+
+Sample solutions to Lab Test 1 (see README for links to video screencasts)
+- https://github.com/dr-matt-smith/2026---Design-Patterns---lab-test-1---sample---suggested-SOLUTIONS
+
 ## Recommended Book
 "Head First Design Patterns" by Eric Freeman & Elizabeth Robson
 
