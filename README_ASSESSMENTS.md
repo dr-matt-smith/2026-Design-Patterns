@@ -4,7 +4,7 @@ ASSESSMENT
 ||
 [TS101](https://github.com/dr-matt-smith/TS101)
 ||
-[OO TS book](https://github.com/dr-matt-smith/TS101](https://github.com/dr-matt-smith/oo-typescript-book1))
+[OO TS book](https://github.com/dr-matt-smith/oo-typescript-book1)
 ||
 [Celbridge](https://www.celbridge.org/)
 ||
