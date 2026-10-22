@@ -18,3 +18,9 @@ ASSESSMENT
 Sample solutions to Lab Test 1 (see README for links to video screencasts)
 - https://github.com/dr-matt-smith/2026---Design-Patterns---lab-test-1---sample---suggested-SOLUTIONS
 
+## Sample assessments - Lab Test 2
+
+Sample test and solutions to Lab Test 2 
+
+https://github.com/dr-matt-smith/2026-oo-design-patterns-lab-test-2-sample
+
